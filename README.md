@@ -49,20 +49,7 @@ Modify scripts to test different datasets or parameters.
 Check the visualizations generated in the output/ folder.
 
 ``` 
-Project Structure
 
-
-Basic-Data-Analytics/
-├── data/                   # Sample datasets
-├── output/                 # Output visualizations and results
-├── scripts/                # Python scripts for analysis
-│   ├── data_cleaning.py    # Data cleaning steps
-│   ├── visualization.py    # Visualization methods
-│   └── machine_learning.py # Simple ML algorithms
-├── .gitignore              # Ignored files
-├── README.md               # Project documentation
-├── requirements.txt        # Required Python libraries
-└── LICENSE                 # License file
 
 Technologies Used
 Languages: Python
